@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleMVCWebApp", "SampleMVCWebApp\SampleMVCWebApp.csproj", "{5B57717E-CD56-4B35-99F9-3CC7F65EC301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotelyApp", "NotelyApp\NotelyApp.csproj", "{DA5401FF-CF96-4F14-86CE-2BBA9BFC951C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B57717E-CD56-4B35-99F9-3CC7F65EC301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B57717E-CD56-4B35-99F9-3CC7F65EC301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B57717E-CD56-4B35-99F9-3CC7F65EC301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B57717E-CD56-4B35-99F9-3CC7F65EC301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA5401FF-CF96-4F14-86CE-2BBA9BFC951C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5401FF-CF96-4F14-86CE-2BBA9BFC951C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5401FF-CF96-4F14-86CE-2BBA9BFC951C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5401FF-CF96-4F14-86CE-2BBA9BFC951C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBD1DEE9-C140-488A-82CF-2CE02DA4B1B7}
+	EndGlobalSection
+EndGlobal
