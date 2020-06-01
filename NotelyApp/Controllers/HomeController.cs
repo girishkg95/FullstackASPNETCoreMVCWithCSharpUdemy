@@ -17,7 +17,7 @@ namespace NotelyApp.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "we are creating a Notely Application using ASP.NET Core MVC 2.1 Framework!!!";
 
             return View();
         }
